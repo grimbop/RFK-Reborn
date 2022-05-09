@@ -1,0 +1,87 @@
+
+["ChocoboKnights of the Crafting Table Config: ConfigEntityMoogle"]
+	#Light level the lantern provides. slightly less than a torch at 13
+	#Range: 0 ~ 15
+	lanternLightLevel = 13
+	#Range: 1 ~ 60
+	lanternLightPersistsInSeconds = 3
+	#Comma separated list (Case matters). Exact biome names, if found here it is included no matter what.
+	spawnBiomes = ""
+	#Comma separated list (Case matters). Exact biome names, if found here it is not included, this is only checked after the spawnBiomes.
+	spawnBiomesExclude = ""
+	#Comma separated list (Case matters). As long as one word in the list exists in the biome name it will be allowed to spawn here (assuming the spawnBiomesNotContain is also true for it, and all other settings). Use blank to ignore this option. 
+	spawnBiomesMustContain = ""
+	#Comma separated list (Case matters). As long as none of the words in the list exists in the biome name it will be allowed to spawn here (assuming the spawnBiomesContain is also true for it, and all other settings). Use blank to ignore this option.
+	spawnBiomesMustNotContain = "ocean,sea,lake,water,river,swamp"
+	#0 = false, 1 = true, 2 = either.  Watch out if it is 'IsSnowyBiome' then 'CanRain' is always false.
+	#Range: 0 ~ 2
+	spawnCanRain = 2
+	#Range: -1.0 ~ 2.0
+	spawnDefaultTemperatureMax = 2.0
+	#Range: -1.0 ~ 2.0
+	spawnDefaultTemperatureMin = -1.0
+	#0 = false, 1 = true, 2 = either
+	#Range: 0 ~ 2
+	spawnIsOcean = 2
+	#0 = false, 1 = true, 2 = either
+	#Range: 0 ~ 2
+	spawnIsSnowyBiome = 2
+	#Range: 0 ~ 30
+	spawnPackMax = 5
+	#Range: 0 ~ 30
+	spawnPackMin = 2
+	#Range: 0 ~ 300
+	spawnPackProbability = 15
+	#Range: 0.0 ~ 1.0
+	spawnRainfallMax = 1.0
+	#Range: 0.0 ~ 1.0
+	spawnRainfallMin = 0.0
+	#Range: 0.0 ~ 30.0
+	statArmorLevel0 = 0.0
+	#Range: 0.0 ~ 30.0
+	statArmorMax = 0.0
+	#Range: 0.0 ~ 30.0
+	statArmorMin = 0.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessLevel0 = 0.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMax = 0.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMin = 0.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageLevel0 = 1.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMax = 1.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMin = 1.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeLevel0 = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMax = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMin = 20.0
+	#Range: 0.0 ~ 1024.0
+	statHealthLevel0 = 16.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMax = 16.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMin = 16.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceLevel0 = 0.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMax = 0.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMin = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckLevel0 = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMax = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMin = 0.0
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedLevel0 = 0.3
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMax = 0.3
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMin = 0.3
+

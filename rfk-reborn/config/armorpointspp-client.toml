@@ -1,0 +1,88 @@
+
+[general]
+	# Show protection as overlay over armor
+	# Available: true, false [default: true]
+	showProtection = true
+	# Show toughness as overlay over armor
+	# Available: true, false [default: true]
+	showToughness = true
+	# Show absorption as border around health
+	# Available: true, false [default: true]
+	showAbsorption = true
+	# Show health value text next to bar
+	# Available: true, false [default: true]
+	showHealthValue = true
+	# Show armor value text next to bar
+	# Available: true, false [default: true]
+	showArmorValue = true
+	# Show armor bar when armor is zero
+	# Available: true, false [default: false]
+	showArmorWhenZero = false
+	# Show resistance as border around armor
+	# Available: true, false [default: true]
+	showResistance = true
+	# Enable custom health bar
+	# Available: true, false [default: true]
+	enableHealthBar = true
+	# Enable custom armor bar
+	# Available: true, false [default: true]
+	enableArmorBar = true
+	# Suffix type used for displaying armor values
+	# Available: SI, SCI, GER, ENG [default: SI]
+	suffix = "SI"
+
+	[general.debug]
+		# You don't want this to be on. Believe me
+		# Available: true, false [default: false]
+		debug = false
+
+[representative]
+	# Number of pixels to show an absorption of 1
+	# Available: 0.0 ~ 200.0 [default: 0.25]
+	#Range: 0.0 ~ 200.0
+	absorption = 0.25
+	# Number of icons to show a protection of 1
+	# Available: 0.0 ~ 10.0 [default: 0.5]
+	#Range: 0.0 ~ 10.0
+	protection = 0.5
+	# Number of icons to show a armor toughness of 1
+	# Available: 0.0 ~ 10.0 [default: 0.5]
+	#Range: 0.0 ~ 10.0
+	toughness = 0.5
+	# Number of icons to show a resistance of 1
+	# Available: 0.0 ~ 10.0 [default: 2.0]
+	#Range: 0.0 ~ 10.0
+	resistance = 2.0
+
+[textcolors]
+	# Color when armor = 25
+	# Available: 0x000000 ~ 0xffffff [default: 0xff8811]
+	armorEQ25 = "0xff8811"
+	# Color when armor > 25
+	# Available: 0x000000 ~ 0xffffff [default: 0xff3311]
+	armorGT25 = "0xff3311"
+	# Color when poisoned
+	# Available: 0x000000 ~ 0xffffff [default: 0x947818]
+	heartPoison = "0x947818"
+	# Color when armor < 25
+	# Available: 0x000000 ~ 0xffffff [default: 0x44ff11]
+	armorLT25 = "0x44ff11"
+	# Color when withered
+	# Available: 0x000000 ~ 0xffffff [default: 0x2b2b2b]
+	heartWither = "0x2b2b2b"
+	# Color of absorption
+	# Available: 0x000000 ~ 0xffffff [default: 0xffc300]
+	absorption = "0xffc300"
+	# Color when resistance > 5
+	# Available: 0x000000 ~ 0xffffff [default: 0x4c0000]
+	resistanceFull = "0x4c0000"
+	# Color of separator
+	# Available: 0x000000 ~ 0xffffff [default: 0x3d3d3d]
+	separator = "0x3d3d3d"
+	# Color when armor = 0
+	# Available: 0x000000 ~ 0xffffff [default: 0x3d3d3d]
+	armor0 = "0x3d3d3d"
+	# Color normal status
+	# Available: 0x000000 ~ 0xffffff [default: 0xff1313]
+	heart = "0xff1313"
+

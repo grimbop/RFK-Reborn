@@ -1,0 +1,64 @@
+
+["ChocoboKnights of the Crafting Table Config: ConfigEntityAll"]
+	#Taming Cactuar. Default: True
+	allowTamingCactuar = true
+	#Taming Chocobo. Default: True
+	allowTamingChocobo = true
+	#Taming Moogle. Default: True
+	allowTamingMoogle = true
+	#Taming Moomba. Default: True
+	allowTamingMoomba = true
+	#Taming Tonberry. Default: True
+	allowTamingTonberry = true
+	#Entity shed item dropping amount max. Range: 1 -> 64. Default: 5
+	#Range: 1 ~ 64
+	itemDropShedAmountMax = 5
+	#Entity shed item dropping amount min. Range: 1 -> 64. Default: 1
+	#Range: 1 ~ 64
+	itemDropShedAmountMin = 1
+	#Entity shed chance Range: 0.0 -> 1.0. Default: 0.15
+	#Range: 0.0 ~ 1.0
+	itemDropShedChance = 0.15
+	#Entity shed item dropping min delay in second. Range: 60 -> 6000. Default: 120
+	#Range: 60 ~ 6000
+	ambientSoundDelayInSecondsMin = 120
+	#Range: 2 -> 16. Default: 3
+	#Range: 2 ~ 16
+	radiusHarvestingCrop = 3
+	#Range: 2 -> 16. Default: 10
+	#Range: 2 ~ 16
+	radiusHarvestingTreeHorizontal = 10
+	#Range: 6 -> 45. Default: 30
+	#Range: 6 ~ 45
+	radiusHarvestingTreeVerticalUp = 30
+	#Range: -45 -> -3. Default: -3
+	#Range: -45 ~ -3
+	radiusHarvestingTreeVerticalDown = -3
+	#Range: 2 -> 16. Default: 3
+	#Range: 2 ~ 16
+	radiusGrowingGrass = 3
+	#Range: 2 -> 16. Default: 3
+	#Range: 2 ~ 16
+	radiusGrowingFlower = 3
+	#If you want to have negative levels be meaningless then set stat_Min = stat_Level0. Range: -1000 -> -1. Default: -10
+	#Range: -1000 ~ -1
+	statAllTypesLevelMaxNegative = -10
+	#If you want to have levels be meaningless then set stat_Min = stat_Level0. Range: 1 -> 10000. Default: 100
+	#Range: 1 ~ 10000
+	statAllTypesLevelMaxPositive = 100
+	#Chance to improve all stats. Each stat calculated individually. Range: 0.0 -> 1.0. Default: 0.1
+	#Range: 0.0 ~ 1.0
+	statImprovementChanceByFoodGroup = 0.1
+	#Chance to improve single stat. Range: 0.0 -> 1.0. Default: 0.8
+	#Range: 0.0 ~ 1.0
+	statImprovementChanceByFoodIndividual = 0.8
+	#Random chance a stat will go down on breeding. Range: 0.0 -> 1.0. Default: 0.2
+	#Range: 0.0 ~ 1.0
+	statImprovementChanceRandomlyDown = 0.2
+	#Random chance a stat will go up on breeding. Range: 0.0 -> 1.0. Default: 0.4
+	#Range: 0.0 ~ 1.0
+	statImprovementChanceRandomlyUp = 0.4
+	#Random chance a breeding will produce twins. Range: 0.0 -> 1.0. Default: 0.125
+	#Range: 0.0 ~ 1.0
+	twinsChance = 0.125
+

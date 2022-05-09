@@ -1,0 +1,30 @@
+
+["ChocoboKnights of the Crafting Table Config: Client: Settings involving only the client, Sound and Particle effects"]
+	#Range: 0 -> 6000. Default: 30
+	#Range: 0 ~ 6000
+	ambientSoundDelayInSecondsMin = 30
+	#Range: 0 -> 6000. Default: 180
+	#Range: 0 ~ 6000
+	ambientSoundDelayInSecondsMax = 180
+	#Enable particle effects from Chocobos Aura. Default: true
+	showParticleEffectsChocoboAura = true
+	#Enable particle effects from Chocobos Boat Bubbles. Default: true
+	showParticleEffectsChocoboBoat = true
+	#Enable particle effects from Chocobos Foods. Default: true
+	showParticleEffectsFoods = true
+	#Range: 0.0 -> 1.0. Default: 1.0
+	#Range: 0.0 ~ 1.0
+	soundVolumeCactuar = 1.0
+	#Range: 0.0 -> 1.0. Default: 1.0
+	#Range: 0.0 ~ 1.0
+	soundVolumeChocobo = 1.0
+	#Range: 0.0 -> 1.0. Default: 1.0
+	#Range: 0.0 ~ 1.0
+	soundVolumeMoogle = 1.0
+	#Range: 0.0 -> 1.0. Default: 1.0
+	#Range: 0.0 ~ 1.0
+	soundVolumeMoomba = 1.0
+	#Range: 0.0 -> 1.0. Default: 1.0
+	#Range: 0.0 ~ 1.0
+	soundVolumeTonberry = 1.0
+

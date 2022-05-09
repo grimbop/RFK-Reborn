@@ -1,0 +1,95 @@
+
+["ChocoboKnights of the Crafting Table Config: ConfigWorld: World generation related configuration"]
+	#If true crops will spawn in any dimension that can support them. Requires being open to the sky and a block plants can grow on, example dirt. Default: true
+	canSpawnCropsInAllDimensions = false
+	#If true ores will spawn in any dimension that has stone in it. Default: true
+	canSpawnOresInAllDimensions = false
+	#If true ores will spawn in replacing both stone and nethrrack type blocks. Default: true
+	canSpawnOresInNetherrack = false
+	#Range: 0 ~ 30
+	patchSizeGreenCuriel = 0
+	#Range: 0 ~ 30
+	patchSizeGreenGysahl = 0
+	#Range: 0 ~ 30
+	patchSizeGreenKrakka = 0
+	#Range: 0 ~ 30
+	patchSizeGreenMimett = 0
+	#Range: 0 ~ 30
+	patchSizeGreenPahsana = 0
+	#Range: 0 ~ 30
+	patchSizeGreenReagan = 0
+	#Range: 0 ~ 30
+	patchSizeGreenSylkis = 0
+	#Range: 0 ~ 30
+	patchSizeGreenTantal = 0
+	#Range: 0 ~ 30
+	patchSizeNutCarob = 0
+	#Range: 0 ~ 30
+	patchSizeNutKupo = 0
+	#Range: 0 ~ 30
+	patchSizeNutLasan = 0
+	#Range: 0 ~ 30
+	patchSizeNutLuchile = 0
+	#Range: 0 ~ 30
+	patchSizeNutPepio = 0
+	#Range: 0 ~ 30
+	patchSizeNutPorov = 0
+	#Range: 0 ~ 30
+	patchSizeNutPram = 0
+	#Range: 0 ~ 30
+	patchSizeNutSaraha = 0
+	#Range: 0 ~ 30
+	patchSizeNutZeio = 0
+	#Range: 0 ~ 30
+	patchSizePepperDead = 0
+	#RetroWorldGenerationId is not yet enabled.
+	retroWorldGenerationId = 1
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenCuriel = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenGysahl = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenKrakka = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenMimett = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenPahsana = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenReagan = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenSylkis = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceGreenTantal = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutCarob = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutKupo = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutLasan = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutLuchile = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutPepio = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutPorov = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutPram = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutSaraha = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChanceNutZeio = 0.0
+	#Range: 0.0 ~ 1.0
+	spawnChancePepperDead = 0.0
+	#Default matches between Gold and Iron for settings. Default: 12
+	#Range: 0 ~ 1000
+	spawnOreChances = 0
+	#Default matches Gold for settings. Default: 80
+	#Range: -100 ~ 10000
+	spawnOreHeightMax = 0
+	#Default matches Gold for settings. Default: 0
+	#Range: -100 ~ 10000
+	spawnOreHeightMin = 0
+	#Default matches Gold for settings. Default: 15
+	#Range: 0 ~ 30
+	spawnOreSize = 0
+

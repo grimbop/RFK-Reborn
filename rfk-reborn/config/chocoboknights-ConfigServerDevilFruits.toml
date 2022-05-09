@@ -1,0 +1,17 @@
+
+["ChocoboKnights of the Crafting Table Config: ConfigServerDevilFruits"]
+	devilFruitEnabledBoat = true
+	devilFruitEnabledBubble = true
+	devilFruitEnabledCrops = true
+	devilFruitEnabledDive = true
+	devilFruitEnabledFlight = true
+	devilFruitEnabledIce = true
+	devilFruitEnabledJump = true
+	devilFruitEnabledLava = true
+	devilFruitEnabledLumberjack = true
+	devilFruitEnabledPlanting = true
+	devilFruitEnabledStep = true
+	#Range: 0 -> 1000. Default: 100
+	#Range: 0 ~ 1000
+	devilFruitXpAmount = 100
+

@@ -1,0 +1,69 @@
+
+["ChocoboKnights of the Crafting Table Config: TonberryKing"]
+	#Light level that determines if entity attacks, default matches spiders.
+	#Range: 0.0 ~ 1.0
+	attackLightLevel = 0.7
+	#Range: 0.0 ~ 2048.0
+	attackMassiveDamageAmount = 100.0
+	#This is the chance of the attack doing massive damage
+	#Range: 0.0 ~ 1.0
+	attackMassiveDamageChance = 0.1
+	#Range: 0.0 ~ 100.0
+	attackMassiveKnockbackAmount = 3.0
+	#This is the chance of the attack doing massive knockback
+	#Range: 0.0 ~ 1.0
+	attackMassiveKnockbackChance = 0.1
+	#This is the chance of Tonberry King spawning on Tonberry death.
+	#Range: 0.0 ~ 1.0
+	spawnChanceBoss = 0.1
+	#This is if Tonberry King spawning on Tonberry death is allowed if Tonberry was tamed.
+	spawnBossIfTamed = false
+	#Range: 0.0 ~ 30.0
+	statArmorLevel0 = 30.0
+	#Range: 0.0 ~ 30.0
+	statArmorMax = 30.0
+	#Range: 0.0 ~ 30.0
+	statArmorMin = 30.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessLevel0 = 20.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMax = 20.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMin = 20.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageLevel0 = 3.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMax = 20.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMin = 1.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeLevel0 = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMax = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMin = 20.0
+	#Range: 0.0 ~ 1024.0
+	statHealthLevel0 = 1024.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMax = 1024.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMin = 1024.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceLevel0 = 1.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMax = 1.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMin = 1.0
+	#Range: 0.0 ~ 1024.0
+	statLuckLevel0 = 1024.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMax = 1024.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMin = 1024.0
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedLevel0 = 0.2
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMax = 0.4
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMin = 0.15
+

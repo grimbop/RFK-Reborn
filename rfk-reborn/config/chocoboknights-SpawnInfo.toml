@@ -1,0 +1,7 @@
+
+["ChocoboKnights of the Crafting Table Config: SpawnInfo: This should autommatically show all availble settings for spawn variables"]
+	#Print out all biomes to minecraft logs error. Default: false
+	printSpawnBiomesToError = false
+	#Print out all biomes to minecraft logs out. Default: false
+	printSpawnBiomesToOut = false
+

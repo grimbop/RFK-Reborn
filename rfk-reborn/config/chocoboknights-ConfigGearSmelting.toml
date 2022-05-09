@@ -1,0 +1,51 @@
+
+["ChocoboKnights of the Crafting Table Config: Config Gear Smelting: Resource return when smelting gear, Does not work, Smelting Changed, over ride the smelting recipes"]
+	#Range: 0 ~ 4
+	totalIngotReturnForCactuarBoots = 4
+	#Range: 0 ~ 8
+	totalIngotReturnForCactuarCoat = 8
+	#Range: 0 ~ 5
+	totalIngotReturnForCactuarHat = 5
+	#Range: 0 ~ 2
+	totalIngotReturnForCactuarNeedles = 2
+	#Range: 0 ~ 8
+	totalIngotReturnForChocoboBreastplate = 8
+	#Range: 0 ~ 7
+	totalIngotReturnForChocoboGreaves = 7
+	#Range: 0 ~ 5
+	totalIngotReturnForChocoboHelm = 5
+	#Range: 0 ~ 6
+	totalIngotReturnForChocoboShaffron = 6
+	#Range: 0 ~ 4
+	totalIngotReturnForChocoboTalonguards = 4
+	#Range: 0 ~ 6
+	totalIngotReturnForChocoboWingblades = 6
+	#Range: 0 ~ 2
+	totalIngotReturnForMoogleBoots = 2
+	#Range: 0 ~ 8
+	totalIngotReturnForMoogleChestplate = 8
+	#Range: 0 ~ 5
+	totalIngotReturnForMoogleHelm = 5
+	#Range: 0 ~ 8
+	totalIngotReturnForMoogleShield = 8
+	#Range: 0 ~ 3
+	totalIngotReturnForMoogleSword = 3
+	#Range: 0 ~ 2
+	totalIngotReturnForMoombaBoots = 2
+	#Range: 0 ~ 8
+	totalIngotReturnForMoombaChestplate = 8
+	#Range: 0 ~ 4
+	totalIngotReturnForMoombaGauntlets = 4
+	#Range: 0 ~ 5
+	totalIngotReturnForMoombaHelm = 5
+	#Range: 0 ~ 7
+	totalIngotReturnForMoombaLeggings = 7
+	#Range: 0 ~ 5
+	totalIngotReturnForTonberryCrown = 5
+	#Range: 0 ~ 3
+	totalIngotReturnForTonberryKnife = 3
+	#Range: 0 ~ 8
+	totalIngotReturnForTonberryLantern = 8
+	#Range: 0 ~ 8
+	totalIngotReturnForTonberryRobe = 8
+

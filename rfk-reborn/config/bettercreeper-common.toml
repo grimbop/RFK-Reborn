@@ -1,0 +1,8 @@
+
+#Creeper damage settings
+["Better Creeper Mod"]
+	#Disable creepers block damage
+	DisableBlockDamage = true
+	#Disable creepers item damage
+	DisableItemDamage = true
+

@@ -1,0 +1,40 @@
+#If true, Hot Spring Water makes infinite water sources, like vanilla water does.
+"Creates Source Blocks" = true
+#The namespaced effect that Hot Spring Water applies to entities. If the given effect isn't found (or left blank), no effect is applied.
+"Potion Effect" = "minecraft:regeneration"
+#The duration of the effect, in ticks. 20 ticks = 1 second.
+#Range: > 1
+"Potion Effect Timer" = 50
+#The amplifier of the effect. 0 is level 1.
+#Range: 0 ~ 255
+"Potion Effect Amplifier" = 0
+
+#Most of these settings require any open world to be closed and reopened.
+[worldgen]
+	#The command "/simplyhotsprings" has a few subcommands that will help you fill in your whitelists and blacklists and test to see if they work. For example, "/simplyhotsprings locationinfo" will tell you the name and types of the biome you're currently in and whether Hot Springs can generate there. To see how to use "/simplyhotsprings", run the command "/simplyhotsprings help".
+	#(Also, this config setting does nothing, so put whatever you want in here.)
+	"#HOW TO FILL WHITELISTS AND BLACKLISTS" = ["Run \"/simplyhotsprings biometypes\" to see a list of all Biome Types!"]
+	#Set to false to stop Hot Springs from generating.
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"World Generation" = true
+	#The chance for a Hot Spring to generate is 1 over this value. So lower values are more likely.
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	#Range: > 1
+	"Generation Chance" = 275
+	#When a Hot Spring generates in the world, prints the location to console.
+	"Generation Debug" = false
+	#The biome types where Hot Springs are allowed to generate. If empty, all biome types are allowed. 
+	#The Biome Type Whitelist and Biome Name Whitelist are not both required to be satisfied. You can use a period as a dummy entry. 
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Biome Type Whitelist" = [""]
+	#The biome types where Hot Springs are NOT allowed to generate.
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Biome Type Blacklist" = ["DRY", "SAVANNA", "NETHER", "END", "OCEAN", "RIVER", "SANDY", "BEACH", "VOID"]
+	#The individual biomes where Hot Springs are allowed to generate. If empty, all biomes are allowed. 
+	#The Biome Type Whitelist and Biome Name Whitelist are not both required to be satisfied. You can use a period as a dummy entry. 
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Biome Name Whitelist" = [""]
+	#The individual biomes where Hot Springs are NOT allowed to generate.
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Biome Name Blacklist" = ["biomesoplenty:origin_valley"]
+

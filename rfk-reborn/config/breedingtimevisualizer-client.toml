@@ -1,0 +1,13 @@
+
+["Hold or Toggle"]
+	#Set to true to change view mode from hold to toggle.
+	holdOrToggle = false
+
+[Rendering]
+	#The range in which you'll be able to see the breeding time of animals (Max: 25.0)
+	viewRange = 5.0
+	#Animals that are able to breed will be shown in this color. Note: You do not need to put 0's before the hex colors. Default: Green (00FF00) 
+	ableToBreedColor = "ff00"
+	#Animals that are able to breed will be shown in this color. Note: You do not need to put 0's before the hex colors. Default: Red (FF0000)
+	unableToBreedColor = "ff0000"
+

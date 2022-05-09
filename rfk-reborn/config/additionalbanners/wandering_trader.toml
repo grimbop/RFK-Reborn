@@ -1,0 +1,343 @@
+#Should pattern stencils be added to the wandering trader pool?
+enable_stencil_trades = true
+
+#Wandering Trader trade for shield.
+[shield]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for snowflake.
+[snowflake]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for trident.
+[trident]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for squares.
+[squares]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for dragon.
+[dragon]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for kelp.
+[kelp]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for heart.
+[heart]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for sword.
+[sword]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for phantom.
+[phantom]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for diamond.
+[diamond]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for moon.
+[moon]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for balance.
+[balance]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for grass.
+[grass]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for anchor.
+[anchor]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for clubs.
+[clubs]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for spades.
+[spades]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for squid.
+[squid]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for mushroom.
+[mushroom]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for pumpkin.
+[pumpkin]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+
+#Wandering Trader trade for frame.
+[frame]
+	#What is the base emerald cost for the stencil item?
+	#Range: > 1
+	emerald_cost = 12
+	#The price multiplier for the trade.
+	#Range: 0.0 ~ 1.0
+	price_multiplier = 1.0
+	#How much XP should the player get from this trade?
+	#Range: > 0
+	reward_xp = 16
+	#How many trades can the player make before this trade becomes unavailable?
+	#Range: > 1
+	max_trades = 1
+	#Should the stencil item for this pattern show up in wandering trader's trades?
+	enabled = true
+

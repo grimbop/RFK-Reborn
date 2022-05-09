@@ -1,0 +1,18 @@
+
+[drops]
+	#Chance for an IMob to drop a relic or health potion.
+	#Range: 0.0 ~ 1.0
+	dropChance = 0.17000000178813934
+	#Chance for the drop to be a relic item.
+	#Range: 0.0 ~ 1.0
+	weightRelic = 0.25
+	#Chance for the drop to be a small health potion.
+	#Range: 0.0 ~ 1.0
+	weightSmallHealthPotion = 0.75
+	#Chance for the drop to be a medium health potion.
+	#Range: 0.0 ~ 1.0
+	weightMediumHealthPotion = 0.5
+	#Chance for the drop to be a large health potion.
+	#Range: 0.0 ~ 1.0
+	weightLargeHealthPotion = 0.25
+

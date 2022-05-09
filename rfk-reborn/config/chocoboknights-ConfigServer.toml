@@ -1,0 +1,99 @@
+
+["ChocoboKnights of the Crafting Table Config: ConfigServer"]
+	#Enable chocobo auras
+	chocoboAuraAllowed = true
+	#Chocobo aura duration in seconds, this is also how often the aura is triggered. The aura is only triggered whent he duration ends.
+	#Range: 10 ~ 600
+	chocoboAuraDurationInSeconds = 30
+	#Chocobo aura radius in blocks. If this gets to big it could cause massive lag.
+	#Range: 0 ~ 100
+	chocoboAuraRadius = 16
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceBlack = 45
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceBlue = 45
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceBrown = 75
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceCyan = 75
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceGold = 40
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceGreen = 75
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChancePink = 75
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChancePurple = 40
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceRed = 40
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceSilver = 45
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceWhite = 45
+	#All Weighted Chances are the chance of one color divided by the sum total of all colors.
+	#Range: 0 ~ 1000
+	chocoboColorWeightedChanceYellow = 600
+	#Seconds until Chocobo Child grows into an Adult (Not yet implmented)
+	#Range: 0 ~ 10000000
+	chocoboGrowingTime = 10000
+	#Seconds until Chocobo Egg Hatches
+	#Range: 0 ~ 10000000
+	chocoboHatchingTime = 600
+	#Chance to improve chocobo stats group.
+	#Range: 0.0 ~ 1.0
+	chocoboStatImprovementChanceByFoodGroup = 0.15
+	#Chance to improve chocobo stats individually.
+	#Range: 0.0 ~ 1.0
+	chocoboStatImprovementChanceByFoodIndividual = 0.8
+	#Random chance a chocobo stat will go down.
+	#Range: 0.0 ~ 1.0
+	chocoboStatImprovementChanceRandomlyDown = 0.2
+	#Random chance a chocobo stat will go up.
+	#Range: 0.0 ~ 1.0
+	chocoboStatImprovementChanceRandomlyUp = 0.5
+	#Light level the materia ore crate provides. only a little
+	#Range: 0 ~ 15
+	lightLevelMateriaCrate = 5
+	#Light level the huge materia provides. only a little
+	#Range: 0 ~ 15
+	lightLevelMateriaHuge = 7
+	#Light level the materia ore provides. only a little
+	#Range: 0 ~ 15
+	lightLevelMateriaOre = 3
+	#Light level the placed tonberry lantern provides. only a little
+	#Range: 0 ~ 15
+	lightLevelLanternTonberry = 10
+	#Range: 0 ~ 1000
+	materiaMasteringXpAmount = 10
+	#Players Start With Field Guide
+	playersStartWithFieldGuide = true
+	#Range: 0 ~ 10000
+	rainbowChocoboNewColorDelay = 20
+	#Range: 0.0 ~ 1.0
+	randomCustomNameChance = 0.001
+	#Show message for Chocobo Knights Discord Server. (Working on making this client side)
+	showMessageForDiscord = true
+	#Show message if there is a Chocobo Knights Mod update. (Working on making this client side)
+	"showMessageForUpdate " = true
+	#Range: 0.0 ~ 1.0
+	tameChanceCactuar = 0.15
+	#Range: 0.0 ~ 1.0
+	tameChanceChocobo = 0.15
+	#Range: 0.0 ~ 1.0
+	tameChanceMoogle = 0.15
+	#Range: 0.0 ~ 1.0
+	tameChanceMoomba = 0.95
+	#Range: 0.0 ~ 1.0
+	tameChanceTonberry = 0.95
+

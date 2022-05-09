@@ -1,0 +1,56 @@
+
+["ChocoboKnights of the Crafting Table Config: ConfigEntityCactuarJumbo"]
+	#This is the chance of Jumbo Cactuar spawning on Cactuar death.
+	#Range: 0.0 ~ 1.0
+	spawnChanceBoss = 0.1
+	#This is if Jumbo Cactuar spawning on Cactuar death is allowed if Cactuar was tamed.
+	spawnBossIfTamed = false
+	#Range: 0.0 ~ 30.0
+	statArmorLevel0 = 5.0
+	#Range: 0.0 ~ 30.0
+	statArmorMax = 30.0
+	#Range: 0.0 ~ 30.0
+	statArmorMin = 0.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessLevel0 = 5.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMax = 20.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMin = 0.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageLevel0 = 3.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMax = 20.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMin = 1.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeLevel0 = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMax = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMin = 20.0
+	#Range: 0.0 ~ 1024.0
+	statHealthLevel0 = 100.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMax = 100.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMin = 100.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceLevel0 = 0.5
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMax = 1.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMin = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckLevel0 = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMax = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMin = 0.0
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedLevel0 = 0.3
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMax = 0.3
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMin = 0.3
+
