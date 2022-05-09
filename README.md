@@ -1,2 +1,3 @@
-# server
-Server-related work for rfkreborn
+# All Things Related to the Modpack: RFK: Reborn!
+
+**WIKI COMING SOON**
